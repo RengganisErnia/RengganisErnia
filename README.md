@@ -1,17 +1,17 @@
 ![Data Analyst](https://github.com/RengganisErnia/RengganisErnia/blob/main/Banner%20pic.jpg)
 
-### Hi there 👋, I'm Rengganis Ernia
+# I'm Rengganis Ernia
 
 I'm passionate about transforming raw data into actionable insights. With good foundation in statistics, data visualization, and SQL, I excel at extracting, cleaning, and analyzing data to uncover meaningful patterns. My goal is to make data-driven decisions accessible to everyone through clear and engaging visualizations.
 
-##Skilss & Experience
+## Skilss & Experience
 * :atom: SQL
 * :mag: Spreadsheet / Excel
 * :bulb: Statistics
 * :flashlight: Data Visualization (Tableau)
 * :mag_right: Basic Python
 
-Skills: SQL | Spreadsheet | Statistics | Data Visualization | Basic Python
+
 
 
 
