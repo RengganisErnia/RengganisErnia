@@ -11,6 +11,9 @@ I'm passionate about transforming raw data into actionable insights. With good f
 * :flashlight: Data Visualization (Tableau)
 * :mag_right: Basic Python
 
+### Example of My Work
+My Portfolio [https://bit.ly/3C0XuBY]
+
 
 
 
