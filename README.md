@@ -1,6 +1,6 @@
 ### Hi there 👋, Rengganis Ernia
 #### Data Analyst
-![Data Analyst](https://static.vecteezy.com/system/resources/previews/009/233/542/non_2x/data-analysis-banner-web-icon-set-analytics-search-data-mining-data-filter-pie-chart-and-etc-illustration-concept-vector.jpg)
+![Data Analyst]([https://static.vecteezy.com/system/resources/previews/009/233/542/non_2x/data-analysis-banner-web-icon-set-analytics-search-data-mining-data-filter-pie-chart-and-etc-illustration-concept-vector.jpg](https://github.com/RengganisErnia/RengganisErnia/blob/main/Banner%20pic.jpg?raw=true))
 
 My name is Rengganis. I'm passionate about transforming raw data into actionable insights. With good foundation in statistics, data visualization, and SQL, I excel at extracting, cleaning, and analyzing data to uncover meaningful patterns. My goal is to make data-driven decisions accessible to everyone through clear and engaging visualizations.
 
