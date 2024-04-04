@@ -12,7 +12,7 @@ I'm passionate about transforming raw data into actionable insights. With good f
 * :mag_right: Basic Python
 
 ### Example of My Work
-My Portfolio [Link](https://bit.ly/3C0XuBY)
+My Portfolio [Link](https://rengganis-portfolio.netlify.app/)
 
 
 
